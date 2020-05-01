@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.mkyong</groupId>
-	<artifactId>hello-world</artifactId>
+	<groupId>com.saurabh</groupId>
+	<artifactId>script_based</artifactId>
 	<packaging>jar</packaging>
-	<version>2.0</version>
-	<name>Listen</name>
+	<version>1.0</version>
+	<name>Scripted</name>
 
 	<properties>
 		<jdk.version>1.6</jdk.version>
